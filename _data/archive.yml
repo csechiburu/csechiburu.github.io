@@ -1,6 +1,6 @@
-- type: about
-  title: About
-  url: /about/
+#- type: about
+#  title: About
+#  url: /about/
 #- type: categories
 #  title: Categories
 #  url: /categories/
