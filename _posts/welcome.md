@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: home
 title: Welcome!
 math: true
 
