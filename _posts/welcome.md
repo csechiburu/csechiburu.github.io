@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Testing MathJax
 tags: mathjax
 math: true
