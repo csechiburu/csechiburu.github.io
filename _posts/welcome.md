@@ -1,8 +1,6 @@
 ---
-layout: archive-taxonomies
-type: categories
+layout: home
 title: Welcome!
-math: true
 toc: true
 ---
 Holi
