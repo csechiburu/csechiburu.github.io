@@ -1,9 +1,9 @@
 #- type: about
 #  title: About
 #  url: /about/
-#- type: categories
-#  title: Categories
-#  url: /categories/
+- type: categories
+  title: Categories
+  url: /categories/
 - type: research
   title: Research
   url: /research/
