@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: archive-taxonomies
+type: categories
 title: Welcome!
 math: true
 toc: true
