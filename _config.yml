@@ -7,7 +7,7 @@ remote_theme: vszhub/not-pure-poole
 title: Name
 description: Welcome
 url: https://csechiburu.github.io
-avatar: /avatar.jpeg
+avatar: /avatar.jpg
 paginate: 5
 permalink: pretty
 cover_image: /cover.jpg
