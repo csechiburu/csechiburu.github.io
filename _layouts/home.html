@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% include home-header.html %}
-
+{% for post in paginator.posts %}
 <div class="posts">
   <section class="post-entry">
     <h2 class="post-title">{{ post.title }}</h2>
@@ -12,6 +12,7 @@ layout: default
 
     <p>{{ post.excerpt | strip_html }}</p>
   </section>
+  {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}
     <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
   {%- endif -%}
