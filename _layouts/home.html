@@ -7,9 +7,9 @@ layout: default
 <div class="posts">
   {% for post in paginator.posts %}
   <section class="post-entry">
-    <h2 class="post-title">
+    <h2 class="page-title">
       <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
+        {{ page.title }}
       </a>
     </h2>
 
