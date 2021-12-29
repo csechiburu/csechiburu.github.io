@@ -9,10 +9,11 @@ layout: default
   <section class="post-entry">
     <h2 class="post-title">
       {{ post.title }}
-      {{ content }}
     </h2>
-    
-
+    <body>
+    {{ content }}
+    </body>
+      
     <div class="post-meta">
       <!--<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>-->
       {%- if jekyll.environment == "production" and site.disqus -%}
