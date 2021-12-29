@@ -7,3 +7,12 @@
 - type: research
   title: Research
   url: /research/
+- type: publications
+  title: Publications
+  url: /publications/
+- type: cv
+  title: CV
+  url: /cv/
+- type: outreach
+  title: Outreach
+  url: /outreach/
