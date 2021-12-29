@@ -7,7 +7,7 @@ layout: default
 <div class="posts">
   <section class="post-entry">
     <h2 class="post-title">{{ post.title }}</h2>
-  <p>{{ strip_html }}</p>
+  <p>{{ content }}</p>
   </section>
   {% endfor %}
   {%- if jekyll.environment == "production" and site.disqus -%}
