@@ -12,3 +12,4 @@ paginate: 5
 permalink: pretty
 cover_image: /cover.jpg
 cover_color: rgb(64, 64, 64)
+cover_bg_color: rgb(255, 255, 255)
