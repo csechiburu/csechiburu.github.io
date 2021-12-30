@@ -1,6 +1,6 @@
 ---
 layout: page
-title: outreach
+title: Outreach
 ---
 
 Coming soon.
