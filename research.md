@@ -22,7 +22,7 @@ Berry/NASA Goddard Space Flight Center.</figcaption>
 
 <h3> Neutron stars </h3>
 
- The fundamental difference between BHs and NSs is that neutron stars can be observed directly. In quiescence, the X-ray emission is dominated by the star and not the disk, so we can characterize its surface emission!
+<--! The fundamental difference between BHs and NSs is that neutron stars can be observed directly. In quiescence, the X-ray emission is dominated by the star and not the disk, so we can characterize its surface emission!
 
 <strong> What can we learn? </strong>
 
@@ -30,6 +30,6 @@ NSs are one of the most extreme objects in the Universe. Particularly in their c
 
 <strong> My work </strong>
 
-I used <em>Chandra</em> X-ray observations of the globular cluster M30, which hosts a qLMXB. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models.
+I used <em>Chandra</em> X-ray observations of the globular cluster M30, which hosts a qLMXB. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. -->
  
 
