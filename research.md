@@ -13,10 +13,5 @@ These systems display an interesting transient behaviour. In <em>quiescence</em>
 
 ![placeholder]("https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png"){: .align-center}
 
-!<--<figure>
-  <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png" alt="XRB" class="align-center" style="width:40%">
-  <figcaption>Figure. 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana
-Berry/NASA Goddard Space Flight Center.</figcaption>
-</figure> -->
 
 <h3> Neutron stars </h3>
