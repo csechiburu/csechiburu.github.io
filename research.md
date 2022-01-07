@@ -9,7 +9,7 @@ X-ray binaries are binary systems composed of a <strong>compact object</strong> 
 
 These systems also display an interesting transient behaviour. In <em>quiescence</em>, the X-ray luminosity is fairly faint due to the low level of accretion. On the contrary, the <em>outburst</em> phase is characterized by a rapid increase in the X-ray luminosity and accretion levels that vary over the course of this phase (giving rise to different <em>spectral states</em>). I have studied neutron stars and stellar mass black holes in the context of X-ray binaries. Both compact objects are the remnants of massive stars that end their lives in violent explosions known as supernovae. That said, here is a summary of my work.
 
-<h3> Stellar mass black holes </h3>
+<h3> Stellar mass black holes (BHs) </h3>
 
 <figure>
   <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true" alt="XRB" class="align-center" style="width:60%">
