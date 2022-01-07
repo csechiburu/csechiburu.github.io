@@ -22,12 +22,12 @@ Berry/NASA Goddard Space Flight Center.</figcaption>
 
 <h3> Neutron stars (NSs) </h3>
 
-<!-- The fundamental difference between BHs and NSs is that neutron stars can be observed directly. In quiescence, the X-ray emission is dominated by the star and not the disk, so we can characterize its surface emission!
+The fundamental difference between BHs and NSs is that neutron stars can be observed directly. In quiescence, the X-ray emission is dominated by the star and not the disk, so we can characterize its surface emission!
 
 <strong> What can we learn? </strong>
 
 NSs are one of the most extreme objects in the Universe. Particularly in their cores, densities overcome that of the nucleus of an atom. Since those conditions are difficult to reproduce on Earth, NSs provide a unique place to study the behaviour of matter at such extreme densities. Measuring the macroscopic properties of neutron star (e.g., mass and radius) is helpful to constrain the equation of state of ultra-dense matter. One promising method to constrain neutron star radii consists of the study of low-mass X-ray binaries in quiescence (qLMXB), i.e., during periods of low accretion levels. In quiescence, we can model the surface emission as a single-composition atmosphere dominated by light elements. 
 
-<strong> My work </strong> consisted in using <em>Chandra</em> X-ray observations of the globular cluster M30, which hosts a qLMXB known as <em>A1</em>. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. Comparing this relation to that obtained from different equations of state, allows us to favour (or not) models of nuclear theory.-->
+<strong> My work </strong> consisted in using <a href="https://chandra.si.edu"> <em>Chandra</em> </a> X-ray observations of the globular cluster M30, which hosts a qLMXB known as <em>A1</em>. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. Comparing this relation to that obtained from different equations of state, allows us to favour (or not) models of nuclear theory.
  
 
