@@ -12,7 +12,7 @@ These systems display an interesting transient behaviour. In <em>quiescence</em>
 <h3> Stellar mass black holes </h3>
 
 <figure>
-  <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.pdf" alt="XRB" class="center" style="width:40%">
+  <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png" alt="XRB" class="center" style="width:40%">
   <figcaption>Fig. 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana
 Berry/NASA Goddard Space Flight Center.</figcaption>
 </figure>
