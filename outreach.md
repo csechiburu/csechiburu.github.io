@@ -28,7 +28,6 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pac
 </style>
 
 
-
 <h2>PACE UC</h2>
  
 <p> PACE stands for <em>Programa de Acompañamiento y Acceso Efectivo a la Educación Superior</em> (Accompaniment and Effective Access to Higher Education Program) and is led by the government and partner universities, one of them is the Pontificia Universidad Católica de Chile (UC). </p>
@@ -37,5 +36,21 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pac
   
 The <a href="https://inclusion.uc.cl/pace-uc/"> program</a> aims to make higher education more equitable by targeting students from underprivileged backgrounds, a vast majority of students in Chile. Based on the student’s participation in courses offered by the program, they can apply to a unique spot to start a career of their choice at UC. This process removes the bias introduced by their high school grades and their performance in selection exams. In that way, access to higher education depends only on participation, crucial to inclusive education. <mark>My role was helping to design and teach an elective course about Astronomy and our place in the universe. I taught this class once a week for three semesters</mark>.</p>
 <p> In Covid-19 times, I continued taking part in the program, <mark>elaborating a video introducing fundamental concepts of astronomy</mark>, the importance of developing this science in Chile, and the structure of the undergraduate program at PUC. After watching the video, the students and the program coordinator interviewed me on Instagram Live, where I shared my experience as a female student in a STEM career. These resources are available online on the PACE UC’s <a href="https://www.youtube.com/watch?v=iyfr34M0FY4&t=1s">YouTube</a> and <a href="https://www.instagram.com/paceuc_oficial/channel/">Instagram</a> accounts (with more than 500 views in the latter).</p>
+
+<style>
+img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/planetario.jpg?raw=true"] {
+  float: right;
+}
+</style>
+
+
+<h2>Planetarium</h2>
+ 
+<br>
+
+<p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/planetario.jpg?raw=true" alt="Planetarium" style="width:270px;height:170px;margin-left:15px;">
+  
+In 2019 I worked as a guide at the <a href="hhttps://planetariochile.cl"> Planetarium of the University of Santiago</a> for about five months. I gave several <mark>public talks on different topics</mark>, where the audience covered different ages and backgrounds. <mark>I also elaborated an unprecedented talk about neutron stars</mark>, and I was responsible for training the other guides working at the planetarium.  In that way, they could offer that talk after I left.</p>
+
 
 
