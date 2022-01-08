@@ -36,6 +36,7 @@ BH X-ray binaries in our Galaxy are ideal targets to study jets. Their close pro
   <figcaption>Figure 2 - Scheme of neutron star interior. Image credit: NASA’s Goddard Space Flight Center.</figcaption>
 </figure>
 <br>
+<br>
 The fundamental difference between BHs and NSs is that neutron stars can be observed directly. NSs are pretty small objects: spheres of ~10 km radius enclosing approximately the mass of the Sun. If you were to take one tablespoon of NS material, it would weigh as much as the Mount Everest!
 
 
