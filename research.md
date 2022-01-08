@@ -19,7 +19,7 @@ These systems also display an interesting transient behaviour. In <em>quiescence
 </br>
 <!-- BH X-ray binaries spend most of their lifetime in an inactive or quiescent state, however, they are first detected as they enter in outburst.-->
 <br>
-Perhaps one of the most puzzling events happening during the outburst phase is the detection of a <em>relativistic jet</em>, an energetic beam of material that is expelled away from the BH. Jets are present in diverse astrophysical scenarios: formation of young stars, accreting compact objects, actively accreting supermassive BHs in the centers of galaxies, and more recently, during the collision of two neutron stars. However, despite the wide range of scenarios in which jets are observed, very little is known about the physical processes involved in their launching, the composition of the jet material, and the amount of energy carried away from the system. 
+Perhaps one of the most puzzling events happening during the outburst phase is the detection of a <em>relativistic jet</em>, an energetic beam of material that is expelled away from the BH. Jets are present in diverse astrophysical scenarios: formation of young stars, accreting compact objects, actively accreting supermassive BHs in the centers of galaxies, and more recently, during the collision of two neutron stars. However, despite the wide range of scenarios in which jets are observed, very little is known about the physical processes involved in their launching, the composition of the jet material, and the amount of energy carried away from the system. </br>
   
 <strong> What can we learn from them? </strong>
 
