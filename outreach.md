@@ -5,7 +5,7 @@ title: Outreach
 
 
 <style>
-img [alt="Pineapple"] {
+img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true"] {
   float: right;
 }
 </style>
