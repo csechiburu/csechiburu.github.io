@@ -17,7 +17,7 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.
   <br>
 
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.png?raw=true" alt="MO" style="width:270px;height:170px;margin-left:15px;">
-Pioneering outreach program that consists of leading online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. The primary goal is to highlight the contribution of Latin American astronomers to the field while educating the audience. I had the opportunity to mentor a student willing to learn about astronomy, prepare a talk (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) and operate the telescopes. More details can be found <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
+Pioneering outreach program that consists of leading online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. The primary goal is to highlight the contribution of Latin American astronomers to the field while educating the audience. <mark> I had the opportunity to mentor a student willing to learn about astronomy, prepare a talk (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) and operate the telescopes</mark>. More details can be found <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
 
 </body>
 
@@ -51,6 +51,9 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pla
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/planetario.jpg?raw=true" alt="Planetarium" style="width:270px;height:170px;margin-left:15px;">
   
 In 2019 I worked as a guide at the <a href="hhttps://planetariochile.cl"> Planetarium of the University of Santiago</a> for about five months. I gave several <mark>public talks on different topics</mark>, where the audience covered different ages and backgrounds. <mark>I also elaborated an unprecedented talk about neutron stars</mark>, and I was responsible for training the other guides working at the planetarium.  In that way, they could offer that talk after I left.</p>
+
+
+<h3> For more outreach activities visity my <a href="https://csechiburu.github.io/Files/CV_Jan2022.pdf"> CV</a>.</h3>
 
 
 
