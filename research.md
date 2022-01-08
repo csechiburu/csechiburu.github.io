@@ -6,7 +6,7 @@ title: Research
 <h2> X-ray binaries </h2>
 &ensp;
 X-ray binaries are binary systems composed of a <strong>compact object</strong> (white dwarf, neutron star or black hole) that is "stealing" material from a <strong>companion star</strong>. Since this material carries angular momentum it does not fall directly onto the surface of the compact object, but instead forms an <strong>accretion disk</strong> around it. The disk is one of the prominent structures that we observe in these type of binaries.
-
+&ensp;
 These systems also display an interesting transient behaviour. In <em>quiescence</em>, the X-ray luminosity is fairly faint due to the low level of accretion. On the contrary, the <em>outburst</em> phase is characterized by a rapid increase in the X-ray luminosity and accretion levels that vary over the course of this phase (giving rise to different <em>spectral states</em>). I have studied neutron stars and stellar mass black holes in the context of X-ray binaries. Both compact objects are the remnants of massive stars that end their lives in violent explosions known as supernovae. That said, here is a summary of my work.
 
 <h3> Stellar mass black holes (BHs) </h3>
@@ -23,7 +23,7 @@ Perhaps one of the most puzzling events happening during the outburst phase is t
 <strong> What can we learn from them? </strong>
 
 BH X-ray binaries in our Galaxy are ideal targets to study jets. Their close proximity and rapid variability (hours to a few days) allows us to observe in real time how the system evolves. Particularly, we can study the <strong>connection between accretion inflow and jet outflow</strong>. Because these binaries emit across different bands of the electromagnetic spectrum (see Figure 1), observing and studying the system involves collecting data from various telescopes!
-
+&ensp;
 <mark>My work</mark> focuses on one BH X-ray binary known as MAXI J1820+070, which was first detected in outburst in March 2018. This Galactic BH was intensively monitored by several telescopes over the course of its full outburst, making it one of the most well sampled sources to date! I use these complete data sets to characterize the broad-band spectrum of the system. Tracking the broad-band evolution provides insight into how the structure of the jet and the accretion flow are changing during the outburst, which could indicate a connection between the two.
 
 
@@ -42,7 +42,7 @@ The fundamental difference between BHs and NSs is that neutron stars can be obse
 
 NSs are one of the most extreme objects in the Universe due to their high density. Particularly in their cores (see Figure 2), densities overcome that of the nucleus of an atom. Since those conditions are difficult to reproduce on Earth laboratories, it is not well understood how matter behaves at such extreme densities. That behaviour is described with an <em>equation of state</em>.
 <strong>Equations of state can be constrained by measuring the macroscopic properties of NSs </strong> (e.g., mass and radius) and that's why NSs provide a unique place to study the equation of state of ultra-dense matter. One promising method to measure neutron star radii consists of the study of low-mass X-ray binaries in quiescence (qLMXB), i.e., during periods of low accretion levels. In quiescence, the X-ray emission comes primarily from the star and not so much from the disk, so we can characterize its surface emission!
-
+&ensp;
 <mark>My work</mark> consisted in using <a href="https://chandra.si.edu"> <em>Chandra</em></a> X-ray observations of the globular cluster M30, which hosts a qLMXB known as <em>A1</em>. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. Comparing this relation to that obtained from different equations of state, allows us to favour (or not) theoretical models of nuclear physics. For more details see <a href="https://ui.adsabs.harvard.edu/abs/2020MNRAS.495.4508E/abstract"> Echiburú et al. 2020.</a>
  
 
