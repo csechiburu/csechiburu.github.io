@@ -29,6 +29,8 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pac
 
 
 <h2>PACE UC</h2>
+
+<br>
  
 <p> PACE stands for <em>Programa de Acompañamiento y Acceso Efectivo a la Educación Superior</em> (Accompaniment and Effective Access to Higher Education Program) and is led by the government and partner universities, one of them is the Pontificia Universidad Católica de Chile (UC). </p>
 
