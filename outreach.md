@@ -3,13 +3,20 @@ layout: page
 title: Outreach
 ---
 
-<h2>Title</h2>
 
-<div class="container">
-      <div class="image">
-        <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true">
-      </div>
-      <div class="text">
-        <h1>Paris is one of the most beautiful cities in France.</h1>
-      </div>
-    </div>
+<style>
+img {
+  float: right;
+}
+</style>
+
+<body>
+
+<h2>Float Right</h2>
+
+<p>In this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap around the image.</p>
+
+<p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true" alt="Pineapple" style="width:170px;height:170px;margin-left:15px;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+
+</body>
