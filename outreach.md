@@ -2,13 +2,14 @@
 layout: page
 title: Outreach
 ---
-<head>
+
+
 <style>
 img {
   float: right;
 }
 </style>
-</head>
+
 <body>
 
 <h2>Multiculturalism at SBO</h2>
