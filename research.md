@@ -15,9 +15,9 @@ These systems also display an interesting transient behaviour. In <em>quiescence
   <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true" alt="XRB" class="align-center" style="width:60%">
   <figcaption>Figure. 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana Berry/NASA Goddard Space Flight Center.</figcaption>
 </figure>
-&ensp;
-<!-- BH X-ray binaries spend most of their lifetime in an inactive or quiescent state, however, they are first detected as they enter in outburst.-->
 
+<!-- BH X-ray binaries spend most of their lifetime in an inactive or quiescent state, however, they are first detected as they enter in outburst.-->
+&ensp;
 Perhaps one of the most puzzling events happening during the outburst phase is the detection of a <em>relativistic jet</em>, an energetic beam of material that is expelled away from the BH. Jets are present in diverse astrophysical scenarios: formation of young stars, accreting compact objects, actively accreting supermassive BHs in the centers of galaxies, and more recently, during the collision of two neutron stars. However, despite the wide range of scenarios in which jets are observed, very little is known about the physical processes involved in their launching, the composition of the jet material, and the amount of energy carried away from the system. 
   
 <strong> What can we learn from them? </strong>
@@ -29,12 +29,12 @@ BH X-ray binaries in our Galaxy are ideal targets to study jets. Their close pro
 
 
 <h3> Neutron stars (NSs) </h3>
-&ensp
+&ensp;
 <figure>
   <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/NS-interior.jpg?raw=true" alt="NS" class="align-center" style="width:60%">
   <figcaption>Figure 2 - Scheme of neutron star interior. Image credit: NASA’s Goddard Space Flight Center.</figcaption>
 </figure>
-&ensp
+&ensp;
 
 The fundamental difference between BHs and NSs is that neutron stars can be observed directly. NSs are pretty small objects: spheres of ~10 km radius enclosing approximately the mass of the Sun. If you were to take one tablespoon of NS material, it would weigh as much as the Mount Everest!
 
