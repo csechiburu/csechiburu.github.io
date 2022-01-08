@@ -5,7 +5,7 @@ title: Outreach
 
 
 <style>
-img {
+img [alt="Pineapple"] {
   float: right;
 }
 </style>
