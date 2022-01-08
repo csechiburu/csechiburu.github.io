@@ -54,6 +54,7 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pla
   
 In 2019 I worked as a guide at the <a href="hhttps://planetariochile.cl"> Planetarium of the University of Santiago</a> for about five months. I gave several <mark>public talks on different topics</mark>, where the audience covered different ages and backgrounds. <mark>I also elaborated an unprecedented talk about neutron stars</mark>, and I was responsible for training the other guides working at the planetarium.  In that way, they could offer that talk after I left.</p>
 
+<br>
 
 <h4> For more outreach activities visity my <a href="https://csechiburu.github.io/Files/CV_Jan2022.pdf"> CV</a>.</h4>
 
