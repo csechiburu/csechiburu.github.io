@@ -11,22 +11,23 @@ X-ray binaries are binary systems composed of a <strong>compact object</strong> 
 These systems also display an interesting transient behaviour. In <em>quiescence</em>, the X-ray luminosity is fairly faint due to the low level of accretion. On the contrary, the <em>outburst</em> phase is characterized by a rapid increase in the X-ray luminosity and accretion levels that vary over the course of this phase (giving rise to different <em>spectral states</em>). <mark>I have studied neutron stars and stellar mass black holes in the context of X-ray binaries</mark>. Both compact objects are the remnants of massive stars that end their lives in violent explosions known as supernovae. That said, here is a summary of my work.
 
 <h3> Stellar mass black holes (BHs) </h3>
-<br></br>
+<br>
 <figure>
   <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true" alt="XRB" class="align-center" style="width:60%">
   <figcaption>Figure 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana Berry/NASA Goddard Space Flight Center.</figcaption>
 </figure>
 
 <!-- BH X-ray binaries spend most of their lifetime in an inactive or quiescent state, however, they are first detected as they enter in outburst.-->
-<br></br>
+<pre>
+
 Perhaps one of the most puzzling events happening during the outburst phase is the detection of a <em>relativistic jet</em>, an energetic beam of material that is expelled away from the BH. Jets are present in diverse astrophysical scenarios: formation of young stars, accreting compact objects, actively accreting supermassive BHs in the centers of galaxies, and more recently, during the collision of two neutron stars. However, despite the wide range of scenarios in which jets are observed, very little is known about the physical processes involved in their launching, the composition of the jet material, and the amount of energy carried away from the system.
  
- <br></br>
+
 <strong> What can we learn from them? </strong>
-<br></br>
+
 BH X-ray binaries in our Galaxy are ideal targets to study jets. Their close proximity and rapid variability (hours to a few days) allows us to observe in real time how the system evolves. Particularly, we can study the <strong>connection between accretion inflow and jet outflow</strong>. Because these binaries emit across different bands of the electromagnetic spectrum (see Figure 1), observing and studying the system involves collecting data from various telescopes!
-<br></br>
-<mark>My work</mark> focuses on one BH X-ray binary known as MAXI J1820+070, which was first detected in outburst in March 2018. This Galactic BH was intensively monitored by several telescopes over the course of its full outburst, making it one of the most well sampled sources to date! I use these complete data sets to characterize the broad-band spectrum of the system. Tracking the broad-band evolution provides insight into how the structure of the jet and the accretion flow are changing during the outburst, which could indicate a connection between the two.
+
+<mark>My work</mark> focuses on one BH X-ray binary known as MAXI J1820+070, which was first detected in outburst in March 2018. This Galactic BH was intensively monitored by several telescopes over the course of its full outburst, making it one of the most well sampled sources to date! I use these complete data sets to characterize the broad-band spectrum of the system. Tracking the broad-band evolution provides insight into how the structure of the jet and the accretion flow are changing during the outburst, which could indicate a connection between the two.</pre>
 
 
 
