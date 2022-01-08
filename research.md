@@ -13,10 +13,17 @@ These systems also display an interesting transient behaviour. In <em>quiescence
 
 <figure>
   <img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/XRB.png?raw=true" alt="XRB" class="align-center" style="width:60%">
-  <figcaption>Figure. 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana
-Berry/NASA Goddard Space Flight Center.</figcaption>
+  <figcaption>Figure. 1 - The components of a Black Hole X-ray Binary system, indicating the frequency band in which each element emits radiation. Background image credit: Dana Berry/NASA Goddard Space Flight Center.</figcaption>
 </figure>
 
+<!-- BH X-ray binaries spend most of their lifetime in an inactive or quiescent state, however, they are first detected as they enter in outburst.-->
+Perhaps one of the most puzzling events happening during the outburst phase is the detection of a <em>relativistic jet</em>, an energetic beam of material that is expelled away from the BH. Jets are present in diverse astrophysical scenarios: formation of young stars, accreting compact objects, actively accreting supermassive BHs in the centers of galaxies, and more recently, during the collision of two neutron stars. However, despite the wide range of scenarios in which jets are observed, very little is known about the physical processes involved in their launching, the composition of the jet material, and the amount of energy carried away from the system. 
+
+<strong> What can we learn from them? </strong>
+
+BH X-ray binaries in our Galaxy are ideal targets to study jets. Their close proximity and rapid variability (hours to a few days) allows us to observe in real time how the system evolves. Particularly, shed some light into the <strong>connection between accretion inflow and jet outflow</strong>. Because these binaries emit across different bands of the electromagnetic spectrum (see Figure 1), observing and studying the system involves collecting data from various telescopes! 
+
+<mark>My work</mark> focuses on one BH X-ray binary known as MAXI J1820+070, which was first detected in outburst in March 2018. This Galactic BH was intensively monitored by several telescopes over the course of its full outburst, making it one of the most well sampled sources to date! I use these complete data sets to characterize the broad-band evolution of the system.
 
 
 
@@ -28,12 +35,12 @@ Berry/NASA Goddard Space Flight Center.</figcaption>
 </figure>
 
 
- <!--The fundamental difference between BHs and NSs is that neutron stars can be observed directly. NSs are pretty small objects: spheres of ~10 km radius enclosing about the mass of the Sun. If you were to take one tablespoon of NS material, it would weigh as much as the Mount Everest!
+ <!--The fundamental difference between BHs and NSs is that neutron stars can be observed directly. NSs are pretty small objects: spheres of ~10 km radius enclosing approximately the mass of the Sun. If you were to take one tablespoon of NS material, it would weigh as much as the Mount Everest!
 
-<strong> What can we learn? </strong>
+<strong> What can we learn from them? </strong>
 
-NSs are one of the most extreme objects in the Universe due to their high density. Particularly in their cores, densities overcome that of the nucleus of an atom. Since those conditions are difficult to reproduce on Earth, NSs provide a unique place to study the behaviour of matter at such extreme densities. Measuring the macroscopic properties of neutron star (e.g., mass and radius) is helpful to constrain the equation of state of ultra-dense matter. One promising method to constrain neutron star radii consists of the study of low-mass X-ray binaries in quiescence (qLMXB), i.e., during periods of low accretion levels. In quiescence, the X-ray emission is dominated by the star and not the disk, so we can characterize its surface emission!
+NSs are one of the most extreme objects in the Universe due to their high density. Particularly in their cores, densities overcome that of the nucleus of an atom. Since those conditions are difficult to reproduce on Earth, NSs provide a unique place to study the behaviour of matter at such extreme densities. Measuring the macroscopic properties of neutron stars (e.g., mass and radius) is helpful to constrain the equation of state of ultra-dense matter. One promising method to constrain neutron star radii consists of the study of low-mass X-ray binaries in quiescence (qLMXB), i.e., during periods of low accretion levels. In quiescence, the X-ray emission comes primarily from the star and not so much from the disk, so we can characterize its surface emission!
 
-<mark>My work</mark> consisted in using <a href="https://chandra.si.edu"> <em>Chandra</em></a> X-ray observations of the globular cluster M30, which hosts a qLMXB known as <em>A1</em>. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. Comparing this relation to that obtained from different equations of state, allows us to favour (or not) models of nuclear theory. -->
+<mark>My work</mark> consisted in using <a href="https://chandra.si.edu"> <em>Chandra</em></a> X-ray observations of the globular cluster M30, which hosts a qLMXB known as <em>A1</em>. With this data we were able to characterize the thermal emission of the NS with light-element composition atmosphere models (hydrogen or helium), and from there constrain the mass-radius relation for both models. Comparing this relation to that obtained from different equations of state, allows us to favour (or not) theoretical models of nuclear physics. -->
  
 
