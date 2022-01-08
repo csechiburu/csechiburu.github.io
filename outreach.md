@@ -2,7 +2,7 @@
 layout: page
 title: Outreach
 ---
-
+<head>
 <style>
 img {
   float: right;
