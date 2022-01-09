@@ -52,7 +52,7 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pla
 
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/planetario.jpg?raw=true" alt="Planetarium" style="width:270px;height:170px;margin-left:15px;">
   
-In 2019 I worked as a guide at the <a href="hhttps://planetariochile.cl"> Planetarium of the University of Santiago</a> for about five months. I gave several <mark>public talks on different topics</mark>, where the audience covered different ages and backgrounds. <mark>I also elaborated an unprecedented talk about neutron stars</mark>, and I was responsible for training the other guides working at the planetarium.  In that way, they could offer that talk after I left.</p>
+In 2019 I worked as a guide at the <a href="https://planetariochile.cl"> Planetarium of the University of Santiago</a> for about five months. I gave several <mark>public talks on different topics</mark>, where the audience covered different ages and backgrounds. <mark>I also elaborated an unprecedented talk about neutron stars</mark>, and I was responsible for training the other guides working at the planetarium.  In that way, they could offer that talk after I left.</p>
 
 <br>
 
