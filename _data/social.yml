@@ -4,6 +4,6 @@
 #- title: Twitter
 #  url: https://twitter.com/vszhub
 #  icon: fab fa-twitter
-#- title: GitHub
-#  url: https://github.com/vszhub/not-pure-poole
-#  icon: fab fa-github
+- title: GitHub
+  url: https://github.com/csechiburu
+  icon: fab fa-github
