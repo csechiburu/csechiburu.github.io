@@ -12,12 +12,12 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.
 
 <body>
 
-<h2>Multiculturalism at the Observatory</h2>
+<h2>Multiculturalism at the Observatory (MO)</h2>
  
   <br>
 
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.png?raw=true" alt="MO" style="width:270px;height:170px;margin-left:15px;">
-Pioneering outreach program that consists of leading online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. The primary goal is to highlight the contribution of Latin American astronomers to the field while educating the audience. <mark> I had the opportunity to mentor a student willing to learn about astronomy, prepare a talk (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) and operate the telescopes</mark>. More details can be found <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
+MO is a pioneering outreach program that consists of leading online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. One of the primary goals is to highlight the contribution of Latin American astronomers to the field of astronomy. This program is led by graduate students, and <mark>my role was mentoring to prepare a public talk (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) and operate the telescopes</mark>. More details can be found <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
 
 </body>
 
@@ -36,8 +36,8 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pac
 
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/pace.png?raw=true" alt="PACE" style="width:185px;height:270px;margin-right:15px;">
   
-The <a href="https://inclusion.uc.cl/pace-uc/"> program</a> aims to make higher education more equitable by targeting students from underprivileged backgrounds, a vast majority of students in Chile. Based on the student’s participation in courses offered by the program, they can apply to a unique spot to start a career of their choice at UC. This process removes the bias introduced by their high school grades and their performance in selection exams. In that way, access to higher education depends only on participation, crucial to inclusive education. <mark>My role was helping to design and teach an elective course about Astronomy and our place in the universe. I taught this class once a week for three semesters</mark>.</p>
-<p> In Covid-19 times, I continued taking part in the program, <mark>elaborating a video introducing fundamental concepts of astronomy</mark>, the importance of developing this science in Chile, and the structure of the undergraduate program at PUC. After watching the video, the students and the program coordinator interviewed me on Instagram Live, where I shared my experience as a female student in a STEM career. These resources are available online on the PACE UC’s <a href="https://www.youtube.com/watch?v=iyfr34M0FY4&t=1s">YouTube</a> and <a href="https://www.instagram.com/paceuc_oficial/channel/">Instagram</a> accounts (with more than 500 views in the latter).</p>
+The <a href="https://inclusion.uc.cl/pace-uc/"> program</a> aims to make higher education more equitable by targeting students from underprivileged backgrounds. Based on the student’s participation in courses offered by the program, they can apply to a unique spot to start a career of their choice at UC. This process removes the bias introduced by their high school grades and their performance in selection exams. In that way, access to higher education depends mainly on their participation. <mark>My role was helping to design and teach an elective course about astronomy and our place in the universe. I taught this class once a week for three semesters</mark>.</p>
+<p> In Covid-19 times, I continued taking part in the program, <mark>elaborating a video introducing fundamental concepts of astronomy</mark>, the importance of developing this science in Chile, and the structure of the undergraduate program at UC. After that I was interviewed by the program coordinator and students via Instagram Live, where I shared my experience as a female student in a STEM career. These resources are available online on the PACE UC’s <a href="https://www.youtube.com/watch?v=iyfr34M0FY4&t=1s">YouTube</a> and <a href="https://www.instagram.com/paceuc_oficial/channel/">Instagram</a> accounts.</p>
 
 <style>
 img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/planetario.jpg?raw=true"] {
