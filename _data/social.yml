@@ -1,15 +1,15 @@
 - title: Email
   url: mailto:constanza.echiburu@colorado.edu
   icon: fas fa-envelope
-- title: GitHub
-  url: https://github.com/csechiburu
-  icon: fab fa-github
 - title: Research Gate
   url: https://www.researchgate.net/profile/Constanza-Echiburu
   icon: fab fa-researchgate
-- title: Orcid
-  url: https://orcid.org/0000-0001-8436-1847
-  icon: fab fa-orcid
+- title: GitHub
+  url: https://github.com/csechiburu
+  icon: fab fa-github
+#- title: Orcid
+#  url: https://orcid.org/0000-0001-8436-1847
+#  icon: fab fa-orcid
 - title: Instagram
   url: https://www.instagram.com/coni_e.t._/
   icon: fab fa-instagram
