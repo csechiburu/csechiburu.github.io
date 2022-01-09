@@ -17,7 +17,7 @@ img[src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.
   <br>
 
 <p><img src="https://github.com/csechiburu/csechiburu.github.io/blob/main/Images/MO.png?raw=true" alt="MO" style="width:270px;height:170px;margin-left:15px;">
-MO is a pioneering outreach program that offers online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. Other graduate students, including me, lead the program, in which one of the primary goals is to highlight the contribution of Latin American astronomers to the field of astronomy. In particular, <mark>my role was mentoring a student to prepare a public talk</makr> (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) <mark>and operate the telescopes</mark>. You can find more details about MO <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
+MO is a pioneering outreach program that offers online observing nights in English and Spanish at the <a href="https://www.colorado.edu/sbo/"> Sommers-Bausch Observatory</a>. Other graduate students, including me, lead the program, in which one of the primary goals is to highlight the contribution of Latin American astronomers to the field. In particular, <mark>my role was mentoring a student to prepare a public talk</mark> (now available on <a href="https://www.youtube.com/channel/UCCom3frTr5azQtlcBti6KgA"> YouTube</a>) <mark>and operate the telescopes</mark>. You can find more details about MO <a href="https://www.colorado.edu/sbo/student-activities/multiculturalism-sbo-multiculturalismo-en-sbo"> here</a>.</p>
 
 </body>
 
