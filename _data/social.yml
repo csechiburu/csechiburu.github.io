@@ -1,9 +1,9 @@
 - title: Email
   url: mailto:constanza.echiburu@colorado.edu
   icon: fas fa-envelope
-#- title: Twitter
-#  url: https://twitter.com/vszhub
-#  icon: fab fa-twitter
+- title: GitHub
+#  url: https://github.com/csechiburu
+#  icon: fab fa-github
 # - title: Research Gate
 # url: https://www.researchgate.net/profile/Constanza-Echiburu
 # icon: fab fa-researchgate
@@ -13,9 +13,6 @@
 #- title: Google Scholar
 #   url: https://scholar.google.com/citations?user=ngM1DioAAAAJ&hl=en
 #   icon:
-- title: GitHub
-url: https://github.com/csechiburu
-icon: fab fa-github
- - title: Instagram
- url: https://www.instagram.com/coni_e.t._/
- icon: fab fa-instagram
+# - title: Instagram
+# url: https://www.instagram.com/coni_e.t._/
+# icon: fab fa-instagram
