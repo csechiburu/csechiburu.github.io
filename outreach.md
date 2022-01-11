@@ -56,7 +56,7 @@ In 2019 I worked as a guide at the <a href="https://planetariochile.cl"> Planeta
 
 <br>
 
-<h4> For more outreach activities visity my <a href="https://csechiburu.github.io/Files/CV_Jan2022.pdf"> CV</a>.</h4>
+<h4> For more outreach activities visit my <a href="https://csechiburu.github.io/Files/CV_Jan2022.pdf"> CV</a>.</h4>
 
 
 
